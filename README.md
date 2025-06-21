@@ -1,39 +1,44 @@
-# About Me
+<p align="center">
+  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/banner.png?raw=true" alt="Banner" width="800"/>
+</p>
 
-Hello! I'm Tanya, a passionate web developer and recent MCA graduate, with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js). My curiosity for how websites solve real-life problems drives me to create impactful and innovative web solutions. 
+<h1 align="center">Hi, I'm Tanya 👋</h1>
 
-Recently, I’ve developed a keen interest in statistics and machine learning, using data-driven insights to make predictions and inform smarter applications. My technical toolbox also includes SQL and MySQL, empowering me to manage and query databases efficiently.
+<p align="center">
+  <b>Web Developer | Machine Learning Enthusiast | MCA Graduate</b>
+</p>
 
-## Favorite Projects
-
-- **ISL-Organised**: Leveraged spatiotemporal CNNs to accurately detect dynamic Indian Sign Language signs/words.
-- **Urban Mobility Planner** & **iNotebook**: Full-stack web applications featuring:
-  - UI design with React
-  - Route and authentication management via Node.js
-  - Secure password encryption (bcryptjs) and JWT-based authentication
-  - Backend APIs with Express and MongoDB (using Mongoose ODM)
-  - Effective state management with React Context API
-
-Each project reflects my commitment to robust architecture, intuitive user experience, and secure data handling.
-
-## More About Me
-
-When I’m not coding, I enjoy watching informative podcasts, journaling, and exploring philosophy. These hobbies help me stay curious, reflective, and motivated to keep learning.
+<p align="center">
+  <a href="https://tanyanebhwani.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-blueviolet"/>
+  </a>
+  <img src="https://img.shields.io/badge/Stack-MERN-informational"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-yellow"/>
+  <img src="https://img.shields.io/badge/ML--Stats-Active-green"/>
+</p>
 
 ---
 
-## Color Theme Suggestion: Slate Blue & Mint Green
+Welcome to my GitHub!  
+I love web development, machine learning, and using code to solve real-world problems.  
+I specialize in the MERN stack and have recently been exploring statistics and their applications in ML.
 
-For a professional yet distinctive look, I recommend a theme using:
-- **Slate Blue** (#5B5F97) for headers and accent elements
-- **Mint Green** (#7FFFD4) for highlights and call-to-action buttons
-- **Soft White** (#F7F7F7) as the background
-- **Charcoal Gray** (#2D3142) for text
+### 🚀 Projects I’m Proud Of
 
-This palette is modern, easy on the eyes, and will make your portfolio stand out while retaining a professional appearance.
+- **ISL-Organised**: Spatiotemporal CNNs for Indian Sign Language dynamic sign/word detection.
+- **Urban Mobility Planner** & **iNotebook**: Full-stack apps with React, Node.js, Express, MongoDB, JWT, Context API & more.
+
+### 🛠️ Skills
+- MERN Stack, SQL, MySQL
+- Machine Learning & Statistics
+- UI/UX with React, Secure Auth, REST APIs
+
+### 📫 Let’s Connect!
+- [Portfolio Website](https://tanyanebhwani.github.io)
+- [LinkedIn](https://www.linkedin.com/in/tanyanebhwani)
 
 ---
 
-*Let me know if you want a ready-to-use React/HTML template for this design or help with any section!*
-````
--->
+<p align="center">
+  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/footer.png?raw=true" width="300"/>
+</p>
