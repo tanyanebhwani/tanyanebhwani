@@ -1,8 +1,3 @@
-Thank you for sharing such detailed information about yourself! Based on your details, here’s a professional and unique portfolio introduction draft, plus a suggested color theme for your site. You can use this as the "About Me" section or as the basis for your portfolio homepage.
-
----
-
-````markdown name=about-me.md
 # About Me
 
 Hello! I'm Tanya, a passionate web developer and recent MCA graduate, with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js). My curiosity for how websites solve real-life problems drives me to create impactful and innovative web solutions. 
