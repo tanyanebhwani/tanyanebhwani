@@ -19,10 +19,9 @@
 
 ---
 
-Welcome to my GitHub!  
-I love web development, machine learning, and using code to solve real-world problems.  
-I specialize in the MERN stack and have recently been exploring statistics and their applications in ML.
+Hello! I'm Tanya, a passionate web developer and recent MCA graduate, with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js). My curiosity for how websites solve real-life problems drives me to create impactful and innovative web solutions. 
 
+Recently, I’ve developed a keen interest in statistics and machine learning, using data-driven insights to make predictions and inform smarter applications. My technical toolbox also includes SQL and MySQL, empowering me to manage and query databases efficiently.
 ### 🚀 Projects I’m Proud Of
 
 - **ISL-Organised**: Spatiotemporal CNNs for Indian Sign Language dynamic sign/word detection.
