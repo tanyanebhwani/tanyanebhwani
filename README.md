@@ -22,7 +22,7 @@
 <p align = "center">Hello! I'm Tanya, a passionate web developer and recent MCA graduate, with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js). My curiosity for how websites solve real-life problems drives me to create impactful and innovative web solutions.</p> 
 <br/>
 <p align = "center">Recently, I’ve developed a keen interest in statistics and machine learning, using data-driven insights to make predictions and inform smarter applications. My technical toolbox also includes SQL and MySQL, empowering me to manage and query databases efficiently.</p>
-<h3 style = {color:#7FFFD4}> 🚀 Projects I’m Proud Of</h3>
+<h3> 🚀 Projects I’m Proud Of</h3>
 
 - <b>ISL-Organised</b>: Spatiotemporal CNNs for Indian Sign Language dynamic sign/word detection.
 - <b>Urban Mobility Planner</b> & <b>iNotebook</b>: Full-stack apps with React, Node.js, Express, MongoDB, JWT, Context API & more.
