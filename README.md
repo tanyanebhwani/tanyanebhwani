@@ -34,7 +34,7 @@
 
 ### 📫 Let’s Connect!
 - [Portfolio Website](https://tanyanebhwani.github.io)
-- [LinkedIn](linkedin.com/in/tanya-nebhwani-339314200/)
+- [LinkedIn](https://www.linkedin.com/in/tanya-nebhwani-339314200/)
 
 ---
 
