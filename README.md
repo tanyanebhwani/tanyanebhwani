@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/banner.png?raw=true" alt="Banner" width="800"/>
+  <img src="[https://github.com/tanyanebhwani/tanyanebhwani/blob/main/banner.png](https://chatgpt.com/s/m_685a92b8490c8191a1b9cddf169fc7ae)?raw=true" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Tanya 👋</h1>
