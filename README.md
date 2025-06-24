@@ -37,7 +37,3 @@
 - [LinkedIn](https://www.linkedin.com/in/tanya-nebhwani-339314200/)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/footer.png?raw=true" width="300"/>
-</p>
