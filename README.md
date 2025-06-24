@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/banner-image.png?raw=true" alt="Banner" width="800" height = "200"/>
+  <img src="https://github.com/tanyanebhwani/tanyanebhwani/blob/main/banner-image.png?raw=true" alt="Banner" width="800" height = "300"/>
 </p>
 
 <h1 align="center">Hi, I'm Tanya 👋</h1>
